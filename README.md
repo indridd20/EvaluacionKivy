@@ -1,4 +1,5 @@
 # EvaluacionKivy
+#Ingrid Aldana Torres 6°Año
 Practico: Contador con KivyMD
 Crear una aplicación móvil simple que muestre un número en pantalla y permita incrementarlo o reducirlo con botones.
 Requisitos:
