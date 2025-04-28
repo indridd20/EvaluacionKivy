@@ -10,3 +10,5 @@ Dos botones (MDRaisedButton) con los signos "+" y "–".
 El botón "+" debe sumar 1 al número cada vez que se presiona.
 El botón "–" debe restar 1 al número.
 El número debe actualizarse en pantalla.
+
+Funciona correctamente: muestra y actualiza el contador con botones +/–, cambia el título al indicado (“Contador KivyMD”) y añade comentarios o docstrings breves para documentar la clase y sus métodos.
